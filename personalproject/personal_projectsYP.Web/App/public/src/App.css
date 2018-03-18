@@ -1,0 +1,50 @@
+.App-intro {
+  font-size: small;
+}
+
+.navbar {
+  margin-bottom: 0px !important;
+  position: absolute;
+}
+
+.btn-primary{
+  background-color: black !important;
+}
+
+.m-b-sm {
+  margin-bottom: 15px;
+}
+.m-r-sm {
+  margin-right: 15px;
+}
+.m-l-sm{
+  margin-left:15px;
+}
+.m-t-sm {
+  margin-top: 15px;
+}
+.m-b-md {
+  margin-bottom: 25px;
+}
+.m-r-md {
+  margin-right: 25px;
+}
+.m-l-md {
+  margin-left:25px;
+}
+.m-t-md {
+  margin-top: 25px;
+}
+
+.center{
+  margin: auto;
+  width: 50%;
+}
+
+.centerText{
+  text-align:center;
+}
+
+.registration {
+  font-family: Arial, Helvetica, sans-serif;
+}
