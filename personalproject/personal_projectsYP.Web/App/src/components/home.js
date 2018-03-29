@@ -6,7 +6,12 @@ class Home extends Component {
   render() {
     return (
       <div className="homepage">
-        <img src={Background} className="img-responsive"/>
+        <div className="card">
+          <img className="card-img-top img-responsive m-b-sm" src={Background} />
+              <div className="card-body">
+                  <p>test</p>
+              </div>
+        </div>
       </div>
     );
   }

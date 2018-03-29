@@ -9,8 +9,20 @@
 
 .btn-primary{
   background-color: black !important;
+  border:none !important;
 }
-
+.m-b-xs {
+  margin-bottom: 5px;
+}
+.m-r-xs {
+  margin-right: 5px;
+}
+.m-l-xs{
+  margin-left:5px;
+}
+.m-t-xs {
+  margin-top: 5px;
+}
 .m-b-sm {
   margin-bottom: 15px;
 }
@@ -36,9 +48,13 @@
   margin-top: 25px;
 }
 
+.no-padding{
+  padding: 0px;
+}
+
 .center{
   margin: auto;
-  width: 50%;
+  right: 50%;
 }
 
 .centerText{
